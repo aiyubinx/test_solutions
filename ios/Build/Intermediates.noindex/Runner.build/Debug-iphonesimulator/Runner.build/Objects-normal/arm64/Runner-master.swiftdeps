@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c1578fba148b6e34cd1d46e065d175d7f20263e3689329e0fbd54707e8284891"
+build_start_time: [1689839185, 364326953]
+build_end_time: [1689839187, 608037948]
+inputs:
+  "/Users/aiyub/Downloads/testsolutions/ios/Runner/AppDelegate.swift": [1631869426, 0]

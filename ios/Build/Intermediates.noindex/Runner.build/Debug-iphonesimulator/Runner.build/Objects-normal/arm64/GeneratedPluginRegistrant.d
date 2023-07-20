@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/aiyub/Downloads/testsolutions/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/aiyub/Downloads/testsolutions/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/aiyub/Downloads/testsolutions/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h
